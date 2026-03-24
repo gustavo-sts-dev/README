@@ -36,11 +36,11 @@
 
 ###
 
-<h2 align="center">Minhas redes sociais</h2>
+<h2 align="start">Minhas redes sociais</h2>
 
 ###
 
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
@@ -49,11 +49,11 @@
 
 ###
 
-<h2 align="center">Minhas estatísticas</h2>
+<h2 align="start">Minhas estatísticas</h2>
 
 ###
 
-<div align="center">
+<div align="start">
   <img src="https://streak-stats.demolab.com?user=gustavo-sts-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 

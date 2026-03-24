@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, me chamo Gustavo.</h1>
+<h1 align="start">👋 Olá, me chamo Gustavo.</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou um jovem desenvolvedor fullstack que aprende com muita facilidade  a aplica seus conhecimentos com êxito. Além de programar gosto de fazer outras coisas relacionadas a tecnologia como solucionar problemas de software usando recursos disponíveis para usuário.</p>
+<p align="left">Um jovem desenvolvedor backend que aprende com muita facilidade e aplica seus conhecimentos com êxito.</p>
 
 ###
 

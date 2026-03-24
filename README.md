@@ -2,19 +2,19 @@
 
 ###
 
-<h2 align="center">Quem sou?</h2>
+<h2 align="start">Quem sou?</h2>
 
 ###
 
-<p align="left">Um jovem desenvolvedor backend que aprende com muita facilidade e aplica seus conhecimentos com êxito.</p>
+<p align="start">Um jovem desenvolvedor backend que aprende com muita facilidade e aplica seus conhecimentos com êxito.</p>
 
 ###
 
-<h2 align="center">Minha Stack</h2>
+<h2 align="start">Minha Stack</h2>
 
 ###
 
-<div align="center">
+<div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />

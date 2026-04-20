@@ -54,7 +54,5 @@
 ###
 
 <div align="start">
-  <img src="https://streak-stats.demolab.com?user=gustavo-sts-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gustavo-sts-dev" alt="GitHub Streak" /></a>
 ###

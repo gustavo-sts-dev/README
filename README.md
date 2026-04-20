@@ -54,5 +54,5 @@
 ###
 
 <div align="start">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gustavo-sts-dev" alt="GitHub Streak" /></a>
-###
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gustavo-sts-dev&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+</div>
